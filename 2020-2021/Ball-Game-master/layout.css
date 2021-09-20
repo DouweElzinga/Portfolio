@@ -1,0 +1,81 @@
+body {
+    margin: 0px;
+}
+
+
+
+#myCanvas {
+    background: lightgrey;
+}
+.top_header {
+    z-index: 2;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1320px;
+    height: 40px;
+    border-top: 5px double black;
+    background-color: yellow;
+    margin: 0px;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+#goal {
+    width: 40px;
+    height: 120px;
+    top: 160px;
+    left: 0px;
+}
+.block1 {
+    background: blue;
+    visibility: hidden;
+}
+
+.block2 {
+    background: blue;
+    visibility: hidden;
+}
+
+.top_score {
+    z-index: 3;
+    position:absolute;
+    width: 120px;
+    height: 40px;
+    top: 0px;
+    right: 0px;
+    float: right;
+    border-left: 5px double black;
+    background-color: red;
+    margin: 0px;
+}
+
+p {
+    padding-top: 10px;
+    padding-left: 5px;
+    margin: 0px;
+    text-align: center;
+}
+
+footer {
+    z-index: 2;
+    position: relative;
+    width: 1320px;
+    height: 40px;
+    border-bottom: 5px double black;
+    background-color: lime;
+}
+
+
+#ball {
+    top: 0px;
+    left: 0px;
+    width: 40px;
+    height: 40px;
+    background-color: red;
+}
