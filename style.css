@@ -119,6 +119,26 @@ body {
     height: 800px;
 }
 
+.naam {
+    position: relative;
+    top: -60px;
+    font-size: 35px;
+}
+
+.myText {
+    position: relative;
+    top: -100px;
+}
+
+.link-to {
+    text-decoration: none;
+    color: black;
+}
+
+.link-to:hover {
+    color: #5900b3;
+}
+
 .container-text {
     position: relative;
     text-align: center;
