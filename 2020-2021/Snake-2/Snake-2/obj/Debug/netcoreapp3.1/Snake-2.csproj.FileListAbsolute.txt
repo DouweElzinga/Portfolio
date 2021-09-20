@@ -1,0 +1,11 @@
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\bin\Debug\netcoreapp3.1\Snake-2.exe
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\bin\Debug\netcoreapp3.1\Snake-2.deps.json
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\bin\Debug\netcoreapp3.1\Snake-2.runtimeconfig.json
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\bin\Debug\netcoreapp3.1\Snake-2.runtimeconfig.dev.json
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\bin\Debug\netcoreapp3.1\Snake-2.dll
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\bin\Debug\netcoreapp3.1\Snake-2.pdb
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\obj\Debug\netcoreapp3.1\Snake-2.csprojAssemblyReference.cache
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\obj\Debug\netcoreapp3.1\Snake-2.AssemblyInfoInputs.cache
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\obj\Debug\netcoreapp3.1\Snake-2.AssemblyInfo.cs
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\obj\Debug\netcoreapp3.1\Snake-2.dll
+C:\Users\Douwe\Documents\2020 - 2021\C#\Snake-2\Snake-2\Snake-2\obj\Debug\netcoreapp3.1\Snake-2.pdb
