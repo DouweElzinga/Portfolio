@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta name = "viewport" content = "user-scalable=no,width=device-width">
+    <link href = "game.css" rel = "stylesheet" type = "text/css">
+    <title>Game</title>
+
+  </head>
+
+  <body>
+
+    <header id="header">
+      <div id="timeLabel"><label id="minutes">00</label>:<label id="seconds">00</label></div>
+    </header>
+
+
+      <div id="menu">
+        <li class="menuLi"><button class="menuBtn" onclick="start()">Start</button></li>
+        <li class="menuLi"><button class="menuBtn" onclick="showHiscore()">Hiscore</button></li>
+        <li class="menuLi"><button class="menuBtn" onclick="showSettings()">Settings</button></li>
+        <li class="menuLi"><button class="menuBtn" onclick="showAbout()">About</button></li>
+      </div>
+
+      <div id="hiscoreMenu">
+        <button class="closeScore" onclick="closeHiscore()">&times;</button>
+        <li class="hiscoreLi">1st best player</li> 
+        <li class="hiscoreLi">2nd best player</li>
+        <li class="hiscoreLi">3rd best player</li>
+        <li class="hiscoreLi">4th best player</li>
+        <li class="hiscoreLi">5th best player</li>
+        <li class="hiscoreLi">6th best player</li>
+        <li class="hiscoreLi">7th best player</li>
+        <li class="hiscoreLi">8th best player</li>
+      </div>
+
+      <div id="settings">
+        <button class="closeSett" onclick="closeSettings()">&times;</button>
+        <li class="settingsLi"><button class="settingsBtn" onclick="">option1</button></li>
+        <li class="settingsLi"><button class="settingsBtn" onclick="">option2</button></li>
+        <li class="settingsLi"><button class="settingsBtn" onclick="">option3</button></li>
+        <li class="settingsLi"><button class="settingsBtn" onclick="">option4</button></li>
+      </div>
+
+      <div id="about">
+        <button class="closeAbo" onclick="closeAbout()">&times;</button>
+        <p1 class="aboutText">Creators:<br></br>Douwe Elzinga<br></br>Olof Moes<br></br>Version: 0.1</p1>
+      </div>
+
+      <canvas id="canvas" height="400px" width="1296px"></canvas>
+      
+      <script src = "engine.js"></script>
+      <script src = "game.js"></script>
+      <script src = "controller.js"></script>
+      <script src = "display.js"></script>
+    
+    <footer id="footer"></footer>
+
+  </body>
+
+</html>

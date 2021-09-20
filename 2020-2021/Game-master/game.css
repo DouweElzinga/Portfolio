@@ -1,0 +1,174 @@
+#canvas {
+  background-color: grey;
+  display: block;
+  border-style: solid;
+  border-width: 4px;
+  visibility: hidden; /* Hides canvas before onclickEvent*/
+}
+
+#header {
+  width: 1304px; /*canvasWidth + borderWidth from both sides*/
+  height: 40px;
+  background-color: green;
+}
+
+#timeLabel {
+  font-size: 32px;
+  margin-left: 12px;
+  visibility: hidden;
+}
+
+#footer {
+  width: 1304px; /*canvasWidth + borderWidth from both sides*/
+  height: 40px;
+  background-color: green;
+}
+
+    /************************/
+   /***** Menu Styling *****/
+  /************************/
+
+  #menu { /*Menu, list styling, button styling, button hover*/
+    background-color: lightgrey;
+    text-align: center;
+    position: absolute;
+    width: 282px;
+    height: 320px;
+    left: 507px;
+    top: 90px;
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 1px;
+    }
+    .menuLi {
+      margin-top: 24px;
+      list-style: none;
+    } 
+    .menuBtn {
+        background-color: red;
+        color: white;
+        border-radius: 4px;
+        width: 180px;
+        padding: 16px;
+        border: none;
+        text-decoration: none;
+      } 
+      .menuBtn:hover {
+          background-color: green;
+          border-bottom: 2px, solid, black;
+          border-right: 2px, solid, black;
+  } 
+
+  #hiscoreMenu {/*Hiscore Menu, Hiscore list styling, close button styling, close button hover*/
+    position: absolute;
+    background-color: lightgrey;
+    width: 400px;
+    height: 320px;
+    left: 400px;
+    top: 90px;
+    display: none;
+    text-align: center;
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 1px;
+    } 
+    .hiscoreLi {
+      width: auto;
+      margin: 20px;
+      list-style: none;
+      text-align: center;
+      } 
+      .closeScore {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        font-size: 250%;
+        border-radius: 50%;
+        text-decoration: none;
+        } 
+        .closeScore:hover {
+          background-color: grey;
+          color: red;
+          cursor: pointer;
+  }
+
+
+  #settings { /*Menu, list styling, button styling, button hover*/
+    background-color: lightgrey;
+    text-align: center;
+    position: absolute;
+    width: 400px;
+    height: 320px;
+    left: 400px;
+    top: 90px;
+    display: none;
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 1px;
+    }
+    .settingsLi {
+        margin-top: 24px;
+        list-style: none;
+      } 
+      .settingsBtn {
+          background-color: blue;
+          color: white;
+          border-radius: 4px;
+          width: 160px;
+          padding: 16px;
+          border: none;
+          text-align: center;
+          text-decoration: none;
+        } 
+        .settingsBtn:hover {
+            background-color: green;
+            border-bottom: 2px, solid, black;
+            border-right: 2px, solid, black;
+          } 
+          .closeSett {
+              position: absolute;
+              right: 10px;
+              top: 10px;
+              font-size: 250%;
+              border-radius: 50%;
+              text-decoration: none;
+            } 
+            .closeSett:hover {
+                background-color: grey;
+                color: red;
+                cursor: pointer;
+  }
+
+
+  #about { /* About page styling */
+    background-color: lightgrey;
+    text-align: center;
+    position: absolute;
+    width: 400px;
+    height: 320px;
+    left: 400px;
+    top: 90px;
+    display: none;
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 1px;
+    } 
+    .aboutText {
+      position: relative;
+      font-size: 32px;
+      top: 32px;
+      } 
+      .closeAbo {
+          position: absolute;
+          right: 10px;
+          top: 10px;
+          font-size: 250%;
+          border-radius: 50%;
+          text-decoration: none;
+        }
+        .closeAbo:hover {
+            background-color: grey;
+            color: red;
+            cursor: pointer;
+  }
+  
