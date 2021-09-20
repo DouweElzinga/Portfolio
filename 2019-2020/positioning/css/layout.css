@@ -1,0 +1,59 @@
+body {
+    position: relative;
+}
+#boven {
+    width: 50%;
+    height: 50px;
+    top: 50px;
+    left:25%;
+    right:25%;
+    background-color: black;
+    color: white;
+    position: relative;
+    text-align: center;
+    box-shadow: 0 8px 16px 0 rgba(4, 0, 255, 0.2), 0 12px 40px 0 rgba(4, 0, 255, 0.2);
+}
+
+#links {
+    background-color: black;
+    color: white;
+    width: 320px;
+    height: 320px;
+    top: 70px;
+    left: 25%;
+    position: relative;
+    float: left;
+    box-shadow: 0 8px 16px 0 rgba(4, 0, 255, 0.2), 0 12px 40px 0 rgba(4, 0, 255, 0.2);
+}
+#rechts {
+    background-color: black;
+    color: white;
+    width: 320px;
+    height: 320px;
+    top: 70px;
+    right: 25%;
+    position: relative;
+    float: right;
+    box-shadow: 0 8px 16px 0 rgba(4, 0, 255, 0.2), 0 12px 40px 0 rgba(4, 0, 255, 0.2);
+}
+#text {
+    position: absolute;
+    top: 450px;
+    left: 346px;
+    text-align: left
+}
+.image {
+    width: 100px;
+    height: 160px;   
+    position: absolute;
+    transition: .2s;
+    top: 40px;
+    left: 55px;
+    
+}
+
+.image :hover {
+    transform: scale(1.6);
+    box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.2), 0 12px 40px 0 rgba(255, 255, 255, 0.2);
+    
+}

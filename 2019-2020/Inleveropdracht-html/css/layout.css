@@ -1,0 +1,28 @@
+#text {
+    width: 500px;
+    height: 500px;
+    top: 20%;
+    left: 50px;
+    color: black;
+    position: fixed;
+}
+
+#vak {
+    background-color: black;
+    color: white;
+    width: 500px;
+    height: 500px;
+    top: 20%;
+    right: 50px;
+    position: fixed;
+    float: right;
+}
+#streep {
+    background-color: black;
+    color: white;
+    width: 10px;
+    height: 2000px;
+    top: 0px;
+    right: 50%;
+    position: absolute;
+}

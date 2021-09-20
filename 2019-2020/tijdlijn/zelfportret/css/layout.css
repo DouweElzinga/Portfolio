@@ -1,0 +1,163 @@
+#foto {
+    position: fixed;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: 2px 8px 15px 2px black;
+    background-color: black;
+    padding: 5px;
+    z-index: 1;
+    top: 15px;
+    left: 15px;
+}
+
+#box1 {
+    position: absolute;
+    width: 620px;
+    height: 40px;
+    top: 40px;
+    left: 25%;
+    right: 25%;
+    background-color: lightblue;
+    text-align: center;
+}
+
+#canvas {
+    width: 100%; 
+    height: 620px;
+    background-color: white;
+}
+
+#optionButton {
+    position: absolute;
+    top: 250px;
+    right: 40px;
+}
+
+p {
+    margin:10px;
+}
+
+#box1 :hover {
+    background-color: red;
+    transform: scale(1.5);
+    transition: 0.1s;
+    height: 35px;
+    margin: 10px;
+    text-align: center;
+    position: relative;
+    font-size: 32px;
+}
+
+.box2 {
+    position: absolute;
+    width: 620px;
+    height: 40px;
+    bottom: 40px;
+    left: 25%;
+    right: 25%;
+}
+
+a {
+    text-decoration: none;
+}
+.label {
+    background-color: darkcyan;
+    text-align: center;
+    color: white;
+}
+
+.label.succes {
+    background-color: green;
+}
+
+.box2 a p.new-label span::before{
+    position: relative;
+    content: 'Best Thing?'
+  }
+  .box2:hover a p.new-label span{
+    display: none;
+  }
+  .box2:hover a p.new-label::after{
+    content: '....................LIFE....................';
+    color: black;
+    text-transform: uppercase;
+  }
+
+.box2:hover {
+    transform: scale(100);
+    transition: 10s;
+    font-size: 32px;
+    bottom: 1000px;
+    transition: 10s;   
+}   
+
+
+#mySelect {
+    position: absolute;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    top: 210px;
+    right: 40px; 
+    width: 200px;
+    font-size: 16px; 
+    border: 0;
+    border-radius: 2px;
+}
+
+button {
+    position: absolute;
+    padding: 20px;
+    background-color: darkred;
+    color: white;
+    border: 10%;
+    border-color: black;
+    border-radius: 10%;
+    top: 200px;
+}
+
+#after {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    visibility: hidden;
+    transition: 1s;
+}
+#before {
+    position: absolute;
+    left: 100px;
+    top: 70px;
+    visibility: hidden;
+    transition: 1s;
+}
+
+#click2 {
+    position: relative;
+    margin-top: 60px;
+}
+
+
+
+.fotobox {
+    position: absolute;
+    width: 200px;
+    height: 120px;
+    top:400px;
+    left: 50px;
+    transition: .2s;
+}
+.fotobox :hover {
+    transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    margin-left: 28px;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,193 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+#topnav {
+    position: fixed;
+    top: -5px;
+    width: 100%;
+    height: 50px;
+    left: -5px;
+    z-index: 2;
+    background-color: whitesmoke;
+    box-shadow:5px 5px black;
+    overflow: hidden;
+    background-color: #333;
+}
+    li {
+        display: inline;
+    }
+
+    #topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+    #topnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      #topnav a.active {
+        background-color: lightslategrey;
+        color: white;
+      }
+
+#foto {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 2px 8px 15px 2px black;
+    padding: 5px;
+    background-color: black;
+    z-index: 1;
+    top: 75px;
+    left: 30px;
+}
+
+.line1 {
+    position: relative;
+    transform: rotate(35deg);
+    height: 2px;
+    width: 350px;
+    top: 280px;
+    left: 620px;
+    background-color: black;   
+}
+.line2 {
+    position: relative;
+    transform: rotate(-35deg);
+    height: 2px;
+    width: 350px;
+    top: 280px;
+    left: 220px;
+    background-color: black;   
+}
+
+#foot {
+    position: relative;
+    top: 4000px;
+}
+    .oranje {
+        width: 100%;
+        height: 50px;
+        background-color: rgb(255, 61, 8);
+    }
+    .bruin {
+        width: 100%;
+        height: 50px;
+        background-color: rgb(145, 22, 22);
+    }
+    .wit {
+        width: 100%;
+        height: 50px;
+        background-color: rgb(255, 217, 176);
+    }
+
+
+h1 {
+    margin: 0;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#boxes {
+    height: 1000px;
+    width: 1300px;
+    left: 20px;
+    background-color: lightblue;
+    position: absolute;
+}
+
+    #boxes2 {
+        height: 1000px;
+        width: 1300px;
+        top: 1000px;
+        left: 20px;
+        background-color: grey;
+        position: absolute; 
+    }
+        #boxes3 {
+            height: 1000px;
+            width: 1300px;
+            top: 2000px;
+            left: 20px;
+            background-color: lightblue;
+            position: absolute;
+        }
+            #boxes4 {
+                height: 1000px;
+                width: 1300px;
+                top: 3000px;
+                left: 20px;
+                background-color: grey;
+                position: absolute;
+            }
+
+button {
+    font-size: 18px;
+}
+
+#box1 {
+    float: left;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 25%;
+    background-color: royalblue;
+    box-shadow: 2px 8px 10px 2px black;
+    left: 500px;
+    right: 500px;
+    top: 150px;
+    margin-top: 10px;
+}
+
+.modal1 {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 150px;
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+    top:0px;
+    bottom:0px;
+}
+.modal-content1 {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 50px;
+    border: 1px solid #888;
+    width: 80%;
+    margin-top: -120px;
+}
+
+.box2 {
+    float: right;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 25%;
+    background-color: royalblue;
+    box-shadow: 2px 8px 10px 2px black;
+    right: 300px;
+    top: 340px;
+}
+
+.box3 {
+    float: left;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    border-radius: 25%;
+    background-color: royalblue;
+    box-shadow: 2px 8px 10px 2px black;
+    left: 200px;
+    top: 340px;
+}

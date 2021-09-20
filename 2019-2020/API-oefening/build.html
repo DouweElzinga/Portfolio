@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="layout.css">
+</head>
+
+<body>
+    <div id="main">
+        <nav id="topnav">
+            <li><a href="#home" id="home">Home</a></li>
+            <li><a href="#kaart" id="kaart">Kaart</a></li>
+            <li><a href="#grafiek" id="grafiek">Grafieken</a></li>
+            <li><a href="#videos" id="videos">Video's</a></li>
+        </nav>
+
+        <div class="mainBox">
+                <div id="content1">
+                    <p>Locatie:  </p><input type="text" id="location"></input><br><br>
+                    <p>gps:  </p><input type="text" id="gps"></input><br><br>
+                    <input type="submit" id="submit" value="Zoeken"></input>
+                </div>
+
+                <div id="content2">
+                    <div id="map"></div>
+                </div>
+
+                <div id="content3">
+                    more stuff
+                </div>
+                
+                <div id="content4">
+                    Video's
+                </div>
+            </div>            
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+    <script>
+        function initMap(){
+        var map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat: -34.397, lng: 150.644},
+            zoom: 8,
+        }); 
+        }
+    </script>
+    <script async defer 
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBFU4i5KRhqc3U5AA22uGfQjtegLQutSQ&callback=initMap">
+        console.log(this);
+        </script>
+
+</body>
+
+
+
+</html>

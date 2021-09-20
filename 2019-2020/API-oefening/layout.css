@@ -1,0 +1,74 @@
+#main {
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+}
+
+#topnav {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#topnav li a {
+    width: auto;
+    display: flex;
+    float: left;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+#topnav li {
+    list-style: none;
+}
+
+#topnav a:hover {
+    color: blue;
+    background-color: lightgrey;
+}
+
+.mainBox {
+    position: relative;
+    top: 20px;
+    left: 30px;
+    width: 540px;
+    height: 280px;
+    float: left;
+    border: 2px solid black;
+}
+
+#content1 {
+    padding: 20px;
+    display: block;
+}   p { 
+        display: inline-block;
+        margin: 0px;
+}   #location {
+        margin: 0px;
+}   #gps {
+        margin: 0px;
+}   #submit {
+    width: 100px;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+}
+
+#content2 {
+    height: 100%;
+    width: 100%;
+    display: none;
+}
+
+#content3 {
+    display: none;
+}
+
+#content4 {
+    display: none;
+}
+

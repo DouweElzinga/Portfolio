@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="css/layout.css" rel="stylesheet">
+</head>
+<body>
+<div id="canvas">
+    <a href="../tijdlijn.html"><img src="../ik.jpg" id="foto" ></a>
+
+    <div id="box1">
+        <p id=BigText>HOVER ME</p>    
+    </div>
+            <select id="mySelect" onchange="setColor()">
+                <option value="white">Select a Color</option>
+                <option value="green">Green</option>
+                <option value="black">Black</option>
+                <option value="blue">Blue</option>
+                <option value="red">Red</option>
+            </select>
+         
+
+<button id="click" onclick="click('after')">CLICK</button>  
+  <div id="after"> <img src="foto/before.jpg" width="200px" height="420px">
+</div>
+<button id="click2" onclick="click('before')">AGAIN</button>  
+  <div id="before"> <img src="foto/after.jpg" width="200px" height="420px">
+</div>
+   
+        <div class="box2">
+            <a href="">
+                    <p class="label success new-label"><span class="align"></span></p>
+            </a>
+        </div>
+    <div id="box6"></div>
+<div id= "image" style= "position: absolute;">   
+    <img src="foto/zelfportret.png">
+</div>
+
+<div class="fotobox">
+    <img src="foto/foto2.jpg">
+</div>
+
+<script src="js/java.js"></script>
+</body>
+
+</html>

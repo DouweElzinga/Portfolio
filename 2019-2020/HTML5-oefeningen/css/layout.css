@@ -1,0 +1,127 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0px;
+    overflow-x: hidden;
+}
+#main {
+    transition: margin-left .5s;
+}
+h1 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+nav  {
+    position: relative;
+    width: 100%; /**adjust width as needed**/
+    padding: 0;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+    nav li a {
+        display: block;
+        text-decoration: none; /* space between links */
+        margin-left: 1px;
+        width: 200px; /* adjust as needed or use auto */
+        padding: 8px;
+        border-top: none;
+        color:#000;
+        background-color: grey;
+        border-radius: 10px;
+        transition: 0.3s;
+        cursor: url(https://seomofo.com/cursors/xp-middle-finger-2.cur) 2 2, pointer;
+    }
+        
+    nav li {
+        list-style: none;
+        font-size: 18px;
+        float: left;
+    }
+
+    nav a:hover {
+            background-color: lightgrey;
+        }
+
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #111; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+
+  footer {
+    position: absolute;
+    background-color: grey;
+    top: 1500px;
+    bottom: 0px;
+    height: 300px;
+    width: 100%;
+}
+    #footNav {
+        position: relative;
+        padding: 20px;
+        list-style: none;
+        margin-right: 50px;
+        font-size: 16px;
+        float: right;
+        text-align: right;
+        scroll-behavior: smooth;
+    }
+        #footNav li {
+            padding: 10px;  
+        }
+        #footNav a {
+            text-decoration: none;
+            color: black;
+        }
+        #footNav a:hover{
+            color: lightgrey;
+        }
+
+        #text1 {
+            position: absolute;
+            margin: 0;
+            padding-top: 20px;
+            margin-left: 50px;
+            width: 500px;
+        }
+            .info1 {
+                padding: 10px;
+                font-style: italic;
+            }
+
+            p {
+                text-align: justify;
+                font-size: 18px;
+            }
