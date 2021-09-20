@@ -1,0 +1,50 @@
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.exe.config
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.exe
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.pdb
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csprojAssemblyReference.cache
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Main.resources
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Properties.Resources.resources
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csproj.GenerateResource.cache
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.exe
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.pdb
+C:\Users\Patchouli\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form2.resources
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csprojAssemblyReference.cache
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.exe
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.pdb
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form1.resources
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form2.resources
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Properties.Resources.resources
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csproj.GenerateResource.cache
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.exe.config
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.exe
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.pdb
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form3.resources
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\douwebase.mdf
+C:\Users\Douwe\Desktop\Bib analyse\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\douwebase_log.ldf
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\douwebase.mdf
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\douwebase_log.ldf
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.exe.config
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.exe
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.pdb
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csprojAssemblyReference.cache
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form1.resources
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form2.resources
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form3.resources
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Properties.Resources.resources
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csproj.GenerateResource.cache
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.exe
+C:\Users\Douwe\Desktop\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.pdb
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\douwebase.mdf
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\douwebase_log.ldf
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.exe.config
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.exe
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\bin\Debug\Bibliotheek v1.0.pdb
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csprojAssemblyReference.cache
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form1.resources
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form2.resources
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Form3.resources
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek_v1._0.Properties.Resources.resources
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csproj.GenerateResource.cache
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.exe
+C:\Users\Douwe\Documents\Portfolio\2020-2021\Bib analyse 2.0\Visual Studio\Bibliotheek v1.0\Bibliotheek v1.0\obj\Debug\Bibliotheek v1.0.pdb
