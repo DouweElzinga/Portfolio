@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Douwe\\Documents\\2020 - 2021\\C#\\Snake-2\\Snake-2\\Snake-2\\Snake-2.csproj",
+      "projectUniqueName": "C:\\Users\\Douwe\\Documents\\Portfolio-clone\\2020-2021\\Snake-2\\Snake-2\\Snake-2.csproj",
       "projectName": "Snake-2",
-      "projectPath": "C:\\Users\\Douwe\\Documents\\2020 - 2021\\C#\\Snake-2\\Snake-2\\Snake-2\\Snake-2.csproj",
+      "projectPath": "C:\\Users\\Douwe\\Documents\\Portfolio-clone\\2020-2021\\Snake-2\\Snake-2\\Snake-2.csproj",
       "packagesPath": "C:\\Users\\Douwe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Douwe\\Documents\\2020 - 2021\\C#\\Snake-2\\Snake-2\\Snake-2\\obj\\",
+      "outputPath": "C:\\Users\\Douwe\\Documents\\Portfolio-clone\\2020-2021\\Snake-2\\Snake-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Douwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
