@@ -30,11 +30,98 @@ body {
     text-align: center;
     padding: 10px 16px;
     flex-grow: 0;
-}
-
-.navbar-item i {
+    transition: 0.3s;
     font-size: 20px;
 }
+
+#dropbtn {
+    border: none;
+    background: none;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 10px 16px;
+    flex-grow: 0;
+    transition: 0.3s;
+    font-size: 20px;
+}
+
+#dropbtn:hover {
+    color: #cc3333;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    transition: 0.3s;
+    border-radius: 35px;
+    left: -30px;
+}
+
+.content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown:hover .content {display: block;}
+
+.dropdown:hover #dropbtn {
+    color: #cc3333;
+}
+.drop1 {
+    transition: 0.3s;
+    border-radius: 35px 35px 0px 0px;
+}
+.drop1:hover {
+    background-color: #edbc32;
+}
+
+.drop2 {
+    transition: 0.3s;
+}
+.drop2:hover {
+    background-color: #cc3333;
+}
+
+.drop3 {
+    transition: 0.3s;
+    border-radius: 0px 0px 35px 35px;
+}
+.drop3:hover {
+    background-color: #677079;
+}
+
+
+.navbar-item i {
+    font-size: 30px;
+    top: 78px;
+    right: 40px;
+    position: fixed;
+    z-index: 3;
+    color: rgb(159, 16, 241);
+    transform: scaleY(-1);
+    transition: 0.3s;
+}
+
+i:hover {
+    color: #cc3333;
+}
+
+.navbar-item:hover {
+    color: #cc3333;
+}
+
 
 .nav-start {
     justify-content: flex-start;
@@ -284,6 +371,20 @@ body {
     text-align: center;
     padding: 10px 16px;
     flex-grow: 0;
+}
+
+.navfooter-item i {
+    font-size: 30px;
+    bottom: 78px;
+    right: 40px;
+    position: fixed;
+    z-index: 3;
+    color: rgb(159, 16, 241);
+    transition: 0.3s;
+}
+
+.navfooter-item:hover i:hover {
+    color: #cc3333;
 }
 
 /*
