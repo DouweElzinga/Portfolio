@@ -17,6 +17,9 @@ body {
     display: flex;
     padding: 0;
 }
+.face-img {
+    border-radius: 50px;
+}
 
 .navmenu {
     flex-grow: 1;
