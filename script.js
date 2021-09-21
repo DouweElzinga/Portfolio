@@ -23,7 +23,115 @@ window.addEventListener('scroll', function() {
     
     img1.style.left = scrollPercent*window.innerWidth - 500 + 'px';
   
-  console.log();
+  
+});
+
+$(window).on("load",function() {
+  function fade() {
+      var animation_height = $(window).innerHeight() * 0.25;
+      var ratio = Math.round( (1 / animation_height) * 10000 ) / 10000;
+
+      $('.hallo').each(function() {
+          
+          var objectTop = $(this).offset().top;
+          var windowBottom = $(window).scrollTop() + $(window).innerHeight();
+          
+          if ( objectTop + 100 < windowBottom ) {
+              if ( objectTop < windowBottom - animation_height ) {
+                  
+                  $(this).css( {
+                      transition: 'opacity 0.25s linear',
+                      opacity: 1
+                  } );
+
+              } else {
+                  
+                  $(this).css( {
+                      transition: 'opacity 0.25s linear',
+                      opacity: (windowBottom - objectTop) * ratio
+                  } );
+              }
+          } else {
+              
+              $(this).css( 'opacity', 0 );
+          }
+      });
+  }
+  $('.hallo').css( 'opacity', 0 );
+  fade();
+  $(window).scroll(function() {fade();});
+});
+
+$(window).on("load",function() {
+  function fade() {
+      var animation_height = $(window).innerHeight() * 0.25;
+      var ratio = Math.round( (1 / animation_height) * 10000 ) / 10000;
+
+      $('.naam').each(function() {
+          
+          var objectTop = $(this).offset().top;
+          var windowBottom = $(window).scrollTop() + $(window).innerHeight();
+          
+          if ( objectTop + 100 < windowBottom ) {
+              if ( objectTop < windowBottom - animation_height ) {
+                  
+                  $(this).css( {
+                      transition: 'opacity 0.25s linear',
+                      opacity: 1
+                  } );
+
+              } else {
+                  
+                  $(this).css( {
+                      transition: 'opacity 0.25s linear',
+                      opacity: (windowBottom - objectTop) * ratio
+                  } );
+              }
+          } else {
+              
+              $(this).css( 'opacity', 0 );
+          }
+      });
+  }
+  $('.naam').css( 'opacity', 0 );
+  fade();
+  $(window).scroll(function() {fade();});
+});
+
+$(window).on("load",function() {
+  function fade() {
+      var animation_height = $(window).innerHeight() * 0.25;
+      var ratio = Math.round( (1 / animation_height) * 10000 ) / 10000;
+
+      $('.myText').each(function() {
+          
+          var objectTop = $(this).offset().top;
+          var windowBottom = $(window).scrollTop() + $(window).innerHeight();
+          
+          if ( objectTop + 100 < windowBottom ) {
+              if ( objectTop < windowBottom - animation_height ) {
+                  
+                  $(this).css( {
+                      transition: 'opacity 0.25s linear',
+                      opacity: 1
+                  } );
+
+              } else {
+                  
+                  $(this).css( {
+                      transition: 'opacity 0.25s linear',
+                      opacity: (windowBottom - objectTop) * ratio
+                  } );
+              }
+          } else {
+              
+              $(this).css( 'opacity', 0 );
+          }
+      });
+  }
+  $('.myText').css( 'opacity', 0 );
+  fade();
+  $(window).scroll(function() {fade();});
 });
 
 
